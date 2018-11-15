@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomTimeScale.cs](./CS/WindowsFormsApplication1/CustomTimeScale.cs) (VB: [CustomTimeScale.vb](./VB/WindowsFormsApplication1/CustomTimeScale.vb))
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+<!-- default file list end -->
 # How to display custom scale with different working time and cell duration for different week days
 
 
